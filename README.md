@@ -1,6 +1,7 @@
 # Draw3D
 **
 * This application provides a GUI and program interface for 3D drawing.
+* Execute ASampler.class to see a summary of its capabilities
 *
 * @author William Edison
 * @version 1.01 August 2015
